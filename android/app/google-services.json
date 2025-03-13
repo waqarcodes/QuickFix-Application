@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742483482574",
+    "project_id": "quickfix-f3c08",
+    "storage_bucket": "quickfix-f3c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742483482574:android:28eb26a51ba6a3f6fb7d9f",
+        "android_client_info": {
+          "package_name": "com.example.quickfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZ2BZbYzgcZd_Yzn5pBWQ27yxrU0Vqnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
